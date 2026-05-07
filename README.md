@@ -1,6 +1,6 @@
 # Vulnerability Detection with Small Language Models
+Fine-tunes CodeBERT and UniXCoder on the PrimeVul dataset for binary vulnerability classification of C/C++ functions.
 
-Reproduction study of the RevisitVD paper. Fine-tunes CodeBERT and UniXCoder on the PrimeVul dataset for binary vulnerability classification of C/C++ functions.
 
 ---
 
